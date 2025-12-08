@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(137,207,240);
+    background-image: url("resources/index/snow02.gif");
+}
+
+
+div{
+  border: solid, 2px rgb(60,60,240);  
+  background-color: rgba(167,207,240,0.5);
+}
